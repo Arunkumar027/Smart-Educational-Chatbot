@@ -1,4 +1,5 @@
 faiss-cpu
+os
 groq
 langchain-groq
 PyPDF2
@@ -8,3 +9,5 @@ streamlit
 langchain_community
 python-dotenv
 pypdf
+langchain.text_splitter
+dotenv
